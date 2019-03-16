@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 16 22:13:32 2019
-
-@author: yagmur
-"""
-
 import pandas as pd #veri çekmek,gerekli veriyi okumak için kullanılır.
 import numpy as np #matematik kütüphanesidir.
 import matplotlib.pyplot as plt   #verileri çizdirmek için kullanılır.
